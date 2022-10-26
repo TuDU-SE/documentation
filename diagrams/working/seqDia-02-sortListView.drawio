@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:16:52.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="eFrcjoYRUBHIn0eXj9ft" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T09:17:40.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="oTaLduY4hkp-BQ1boyTc" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-1" value="&lt;h1&gt;Seq Dia 02 - sort List View&lt;/h1&gt;&lt;p&gt;Sequence Diagram for sorting a list view.&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-1" value="&lt;h1&gt;Seq Dia 02 - sort List View&lt;/h1&gt;&lt;p&gt;Sequence Diagram for sorting a list view.&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="580" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="20" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-3" value=":Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-3" value=":Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="100" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-3">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-3">
           <mxGeometry x="45" y="70" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-19" value="get obj" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-3" source="S0MOQmoFcQqnZMxCYKN2-9">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-19" value="get obj" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-3" source="S0MOQmoFcQqnZMxCYKN2-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="280" as="sourcePoint" />
             <mxPoint x="55" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-3">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-3">
           <mxGeometry x="45" y="310" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-22" value="visualize data&lt;br&gt;(build html)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-21" parent="S0MOQmoFcQqnZMxCYKN2-3">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-22" value="visualize data&lt;br&gt;(build html)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-21" parent="S0MOQmoFcQqnZMxCYKN2-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="290" as="sourcePoint" />
             <Array as="points">
@@ -33,35 +33,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-5" value="select sort criteria" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-4" parent="1" source="S0MOQmoFcQqnZMxCYKN2-2">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-5" value="select sort criteria" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-4" parent="1" source="S0MOQmoFcQqnZMxCYKN2-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-6" value="display" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="S0MOQmoFcQqnZMxCYKN2-4" parent="1" target="S0MOQmoFcQqnZMxCYKN2-2">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-6" value="display" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" source="S0MOQmoFcQqnZMxCYKN2-4" parent="1" target="S0MOQmoFcQqnZMxCYKN2-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-9" value="obj" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-9" value="obj" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="40" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-15" value="get referenced obj" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-9" target="S0MOQmoFcQqnZMxCYKN2-10">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-15" value="get referenced obj" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-9" target="S0MOQmoFcQqnZMxCYKN2-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="110" as="sourcePoint" />
             <mxPoint x="-60" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-10" value=":javaScript-Instance" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-10" value=":javaScript-Instance" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="100" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
           <mxGeometry x="45" y="90" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
           <mxGeometry x="45" y="150" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-17" value="apply sort on obj" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-16" parent="S0MOQmoFcQqnZMxCYKN2-10">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-17" value="apply sort on obj" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-16" parent="S0MOQmoFcQqnZMxCYKN2-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="130" as="sourcePoint" />
             <Array as="points">
@@ -69,19 +69,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-18" value="update obj" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-10" target="S0MOQmoFcQqnZMxCYKN2-9">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-18" value="update obj" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-10" target="S0MOQmoFcQqnZMxCYKN2-9">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="45" y="200" as="sourcePoint" />
             <mxPoint x="125" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-20" value="return O.K." style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-20" value="return O.K." style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="S0MOQmoFcQqnZMxCYKN2-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="45" y="220" as="sourcePoint" />
             <mxPoint x="-110" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0MOQmoFcQqnZMxCYKN2-12" value="send params&lt;br&gt;(obj_reference, &lt;br&gt;sort_params)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-11" parent="1" source="S0MOQmoFcQqnZMxCYKN2-3">
+        <mxCell id="S0MOQmoFcQqnZMxCYKN2-12" value="send params&lt;br&gt;(obj_reference, &lt;br&gt;sort_params)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" target="S0MOQmoFcQqnZMxCYKN2-11" parent="1" source="S0MOQmoFcQqnZMxCYKN2-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="210" as="sourcePoint" />
           </mxGeometry>
